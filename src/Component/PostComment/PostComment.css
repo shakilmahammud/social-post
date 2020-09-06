@@ -1,0 +1,12 @@
+.comment-textArea{
+    margin-top:20px;
+    border:2px solid rgba(0,0,0, 0.5);
+    padding:20px;
+    border-radius:30px;
+}
+.comment-textArea img{
+    margin-top: 20px;
+}
+.comment-text{
+    margin-left:30px;
+}
